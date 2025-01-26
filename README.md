@@ -20,6 +20,16 @@ download this repo:
 ```bash
 git clone https://github.com/balxz/events-base.git
 ```
+join the directory folder:
+
+```bash
+cd events-base
+```
+starts / run
+
+```bash
+bash run.sh
+```
 
 How To Update?
 ```bash
