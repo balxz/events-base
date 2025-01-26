@@ -1,0 +1,21 @@
+{
+  "name": "balzz-!",
+  "version": "1.0.0",
+  "description": "Ya Gitu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node . --max-old-space-size=8192"
+  },
+  "author": "whoo balxzzy? else if?",
+  "license": "MIT",
+  "dependencies": {
+    "@balxz/this-ytdl": "github:balxz/this-ytdl",
+    "@hapi/boom": "latest",
+    "@whiskeysockets/baileys": "latest",
+    "canvas": "^3.1.0",
+    "js-beautify": "^1.15.1",
+    "moment-timezone": "^0.5.46",
+    "pino": "latest",
+    "readline": "latest"
+  }
+}

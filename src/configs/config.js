@@ -1,0 +1,15 @@
+module.exports = {
+  owner: ["6285165732537", "6282148032171"],
+  pairingNumber: "6285165732537",
+  TeleIDBot: "8147402906:AAGiWpXxYtGeZocgEzqk7fA2jN_y3BP-iRE",
+  TeleIDOwn: "6296434694",
+  self: true,
+  autoReadStory: true,
+  autoReadStoryEmoji: true,
+  autoOnline: true,
+  storyReadInterval: 1000,
+  autoRestart: "350 MB",
+  autoReadMessage: false,
+  writeStore: true,
+  session: "session",
+}
